@@ -1,1 +1,3 @@
-import
+package com.diamondcore.commandtest
+
+import *
